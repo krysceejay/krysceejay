@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in providing solutions to the technological needs of any organisation and client
+- 👀 I’m interested in providing technical solutions to business needs
 - 📫 You can reach me on chijiokechrys@gmail.com
 
 <!---
